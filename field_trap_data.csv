@@ -1,0 +1,606 @@
+﻿trap_id_id,date,crop_name,region,pest,trap_count,form_submission_date,is_sticky_sheet_replaced,lat,lon
+27,5/25/20,Broccoli,California,Diamondback moth,79,5/25/20,TRUE,35.188384,-118.826319
+27,5/26/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,5/27/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,5/28/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,5/29/20,Broccoli,California,Diamondback moth,112,5/29/20,TRUE,35.188384,-118.826319
+27,5/30/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,5/31/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/1/20,Broccoli,California,Diamondback moth,62,6/1/20,FALSE,35.188384,-118.826319
+27,6/2/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/3/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/4/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/5/20,Broccoli,California,Diamondback moth,56,6/5/20,TRUE,35.188384,-118.826319
+27,6/6/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/7/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/8/20,Broccoli,California,Diamondback moth,45,6/8/20,FALSE,35.188384,-118.826319
+27,6/9/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/10/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/11/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/12/20,Broccoli,California,Diamondback moth,99,6/12/20,TRUE,35.188384,-118.826319
+27,6/13/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/14/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/15/20,Broccoli,California,Diamondback moth,53,6/15/20,FALSE,35.188384,-118.826319
+27,6/16/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/17/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/18/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/19/20,Broccoli,California,Diamondback moth,65,6/19/20,TRUE,35.188384,-118.826319
+27,6/20/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/21/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/22/20,Broccoli,California,Diamondback moth,6,6/22/20,TRUE,35.188384,-118.826319
+27,6/23/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/24/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/25/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/26/20,Broccoli,California,Diamondback moth,11,6/26/20,TRUE,35.188384,-118.826319
+27,6/27/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/28/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,6/29/20,Broccoli,California,Diamondback moth,4,6/29/20,TRUE,35.188384,-118.826319
+27,6/30/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/1/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/2/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/3/20,Broccoli,California,Diamondback moth,73,7/3/20,TRUE,35.188384,-118.826319
+27,7/4/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/5/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/6/20,Broccoli,California,Diamondback moth,0,7/6/20,TRUE,35.188384,-118.826319
+27,7/7/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/8/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/9/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/10/20,Broccoli,California,Diamondback moth,148,7/10/20,TRUE,35.188384,-118.826319
+27,7/11/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/12/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/13/20,Broccoli,California,Diamondback moth,111,7/13/20,FALSE,35.188384,-118.826319
+27,7/14/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/15/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/16/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/17/20,Broccoli,California,Diamondback moth,20,7/17/20,TRUE,35.188384,-118.826319
+27,7/18/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/19/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/20/20,Broccoli,California,Diamondback moth,7,7/20/20,TRUE,35.188384,-118.826319
+27,7/21/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/22/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/23/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/24/20,Broccoli,California,Diamondback moth,4,7/24/20,TRUE,35.188384,-118.826319
+27,7/25/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/26/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/27/20,Broccoli,California,Diamondback moth,3,7/27/20,FALSE,35.188384,-118.826319
+27,7/28/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/29/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,7/30/20,Broccoli,California,Diamondback moth,4,7/30/20,TRUE,35.188384,-118.826319
+27,7/31/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,8/1/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,8/2/20,Broccoli,California,Diamondback moth,,,FALSE,35.188384,-118.826319
+27,8/3/20,Broccoli,California,Diamondback moth,6,8/3/20,TRUE,35.188384,-118.826319
+84,6/1/20,Brussels sprout,California,Diamondback moth,20,6/1/20,FALSE,36.68756,-121.79137
+84,6/2/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/3/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/4/20,Brussels sprout,California,Diamondback moth,19,6/4/20,TRUE,36.68756,-121.79137
+84,6/5/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/6/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/7/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/8/20,Brussels sprout,California,Diamondback moth,5,6/8/20,FALSE,36.68756,-121.79137
+84,6/9/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/10/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/11/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/12/20,Brussels sprout,California,Diamondback moth,4,6/12/20,FALSE,36.68756,-121.79137
+84,6/13/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/14/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/15/20,Brussels sprout,California,Diamondback moth,14,6/15/20,FALSE,36.68756,-121.79137
+84,6/16/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/17/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/18/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/19/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/20/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/21/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/22/20,Brussels sprout,California,Diamondback moth,21,6/22/20,TRUE,36.68756,-121.79137
+84,6/23/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/24/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/25/20,Brussels sprout,California,Diamondback moth,20,6/26/20,FALSE,36.68756,-121.79137
+84,6/26/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/27/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/28/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,6/29/20,Brussels sprout,California,Diamondback moth,27,6/29/20,FALSE,36.68756,-121.79137
+84,6/30/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/1/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/2/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/3/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/4/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/5/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/6/20,Brussels sprout,California,Diamondback moth,43,7/6/20,FALSE,36.68756,-121.79137
+84,7/7/20,Brussels sprout,California,Diamondback moth,50,7/7/20,FALSE,36.68756,-121.79137
+84,7/8/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/9/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/10/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/11/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/12/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/13/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/14/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/15/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/16/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/17/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/18/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/19/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/20/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/21/20,Brussels sprout,California,Diamondback moth,71,7/22/20,FALSE,36.68756,-121.79137
+84,7/22/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/23/20,Brussels sprout,California,Diamondback moth,84,7/23/20,TRUE,36.68756,-121.79137
+84,7/24/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/25/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/26/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/27/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/28/20,Brussels sprout,California,Diamondback moth,17,7/28/20,FALSE,36.68756,-121.79137
+84,7/29/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,7/30/20,Brussels sprout,California,Diamondback moth,15,7/30/20,FALSE,36.68756,-121.79137
+84,7/31/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,8/1/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,8/2/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,8/3/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,8/4/20,Brussels sprout,California,Diamondback moth,15,8/4/20,FALSE,36.68756,-121.79137
+84,8/5/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.68756,-121.79137
+84,8/6/20,Brussels sprout,California,Diamondback moth,31,8/6/20,FALSE,36.68756,-121.79137
+89,6/12/20,Broccoli,,Diamondback moth,111,6/12/20,FALSE,36.191092,-121.095686
+89,6/13/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,6/14/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,6/15/20,Broccoli,,Diamondback moth,54,6/15/20,FALSE,36.191092,-121.095686
+89,6/16/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,6/17/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,6/18/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,6/19/20,Broccoli,,Diamondback moth,76,6/22/20,FALSE,36.191092,-121.095686
+89,6/20/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,6/21/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,6/22/20,Broccoli,,Diamondback moth,96,6/22/20,FALSE,36.191092,-121.095686
+89,6/23/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,6/24/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,6/25/20,Broccoli,,Diamondback moth,39,6/25/20,FALSE,36.191092,-121.095686
+89,6/26/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,6/27/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,6/28/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,6/29/20,Broccoli,,Diamondback moth,46,6/29/20,FALSE,36.191092,-121.095686
+89,6/30/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/1/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/2/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/3/20,Broccoli,,Diamondback moth,23,7/3/20,FALSE,36.191092,-121.095686
+89,7/4/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/5/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/6/20,Broccoli,,Diamondback moth,12,7/6/20,FALSE,36.191092,-121.095686
+89,7/7/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/8/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/9/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/10/20,Broccoli,,Diamondback moth,9,7/10/20,FALSE,36.191092,-121.095686
+89,7/11/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/12/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/13/20,Broccoli,,Diamondback moth,31,7/13/20,TRUE,36.191092,-121.095686
+89,7/14/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/15/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/16/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/17/20,Broccoli,,Diamondback moth,192,7/17/20,FALSE,36.191092,-121.095686
+89,7/18/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/19/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/20/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/21/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/22/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/23/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/24/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/25/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/26/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/27/20,Broccoli,,Diamondback moth,48,7/27/20,FALSE,36.191092,-121.095686
+89,7/28/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/29/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/30/20,Broccoli,,Diamondback moth,,,FALSE,36.191092,-121.095686
+89,7/31/20,Broccoli,,Diamondback moth,99,7/31/20,FALSE,36.191092,-121.095686
+93,6/1/20,Broccoli,,Diamondback moth,25,6/1/20,FALSE,36.892801,-121.765852
+93,6/2/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/3/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/4/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/5/20,Broccoli,,Diamondback moth,9,6/5/20,FALSE,36.892801,-121.765852
+93,6/6/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/7/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/8/20,Broccoli,,Diamondback moth,8,6/8/20,FALSE,36.892801,-121.765852
+93,6/9/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/10/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/11/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/12/20,Broccoli,,Diamondback moth,28,6/12/20,FALSE,36.892801,-121.765852
+93,6/13/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/14/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/15/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/16/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/17/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/18/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/19/20,Broccoli,,Diamondback moth,2,6/19/20,FALSE,36.892801,-121.765852
+93,6/20/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/21/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/22/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/23/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/24/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/25/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/26/20,Broccoli,,Diamondback moth,14,6/26/20,FALSE,36.892801,-121.765852
+93,6/27/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/28/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/29/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,6/30/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/1/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/2/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/3/20,Broccoli,,Diamondback moth,11,7/3/20,FALSE,36.892801,-121.765852
+93,7/4/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/5/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/6/20,Broccoli,,Diamondback moth,13,7/6/20,FALSE,36.892801,-121.765852
+93,7/7/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/8/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/9/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/10/20,Broccoli,,Diamondback moth,6,7/10/20,FALSE,36.892801,-121.765852
+93,7/11/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/12/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/13/20,Broccoli,,Diamondback moth,3,7/13/20,FALSE,36.892801,-121.765852
+93,7/14/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/15/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/16/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/17/20,Broccoli,,Diamondback moth,7,7/17/20,FALSE,36.892801,-121.765852
+93,7/18/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/19/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/20/20,Broccoli,,Diamondback moth,7,7/20/20,FALSE,36.892801,-121.765852
+93,7/21/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/22/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/23/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/24/20,Broccoli,,Diamondback moth,13,7/24/20,FALSE,36.892801,-121.765852
+93,7/25/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/26/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/27/20,Broccoli,,Diamondback moth,6,7/27/20,TRUE,36.892801,-121.765852
+93,7/28/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/29/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/30/20,Broccoli,,Diamondback moth,,,FALSE,36.892801,-121.765852
+93,7/31/20,Broccoli,,Diamondback moth,7,7/31/20,FALSE,36.892801,-121.765852
+94,5/25/20,Brussels sprout,California,Diamondback moth,16,5/25/20,FALSE,36.76597,-121.75838
+94,5/26/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,5/27/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,5/28/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,5/29/20,Brussels sprout,California,Diamondback moth,49,5/29/20,TRUE,36.76597,-121.75838
+94,5/30/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,5/31/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/1/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/2/20,Brussels sprout,California,Diamondback moth,32,6/2/20,FALSE,36.76597,-121.75838
+94,6/3/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/4/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/5/20,Brussels sprout,California,Diamondback moth,50,6/5/20,TRUE,36.76597,-121.75838
+94,6/6/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/7/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/8/20,Brussels sprout,California,Diamondback moth,7,6/8/20,FALSE,36.76597,-121.75838
+94,6/9/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/10/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/11/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/12/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/13/20,Brussels sprout,California,Diamondback moth,11,6/13/20,TRUE,36.76597,-121.75838
+94,6/14/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/15/20,Brussels sprout,California,Diamondback moth,11,6/15/20,FALSE,36.76597,-121.75838
+94,6/16/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/17/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/18/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/19/20,Brussels sprout,California,Diamondback moth,9,6/19/20,TRUE,36.76597,-121.75838
+94,6/20/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/21/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/22/20,Brussels sprout,California,Diamondback moth,16,6/22/20,FALSE,36.76597,-121.75838
+94,6/23/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/24/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/25/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/26/20,Brussels sprout,California,Diamondback moth,32,6/26/20,TRUE,36.76597,-121.75838
+94,6/27/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/28/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,6/29/20,Brussels sprout,California,Diamondback moth,19,6/29/20,FALSE,36.76597,-121.75838
+94,6/30/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/1/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/2/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/3/20,Brussels sprout,California,Diamondback moth,41,7/3/20,TRUE,36.76597,-121.75838
+94,7/4/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/5/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/6/20,Brussels sprout,California,Diamondback moth,5,7/6/20,FALSE,36.76597,-121.75838
+94,7/7/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/8/20,Brussels sprout,California,Diamondback moth,31,7/15/20,TRUE,36.76597,-121.75838
+94,7/9/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/10/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/11/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/12/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/13/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/14/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/15/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/16/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/17/20,Brussels sprout,California,Diamondback moth,37,7/20/20,TRUE,36.76597,-121.75838
+94,7/18/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/19/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/20/20,Brussels sprout,California,Diamondback moth,12,7/20/20,FALSE,36.76597,-121.75838
+94,7/21/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/22/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/23/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/24/20,Brussels sprout,California,Diamondback moth,28,7/24/20,TRUE,36.76597,-121.75838
+94,7/25/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/26/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/27/20,Brussels sprout,California,Diamondback moth,27,7/27/20,FALSE,36.76597,-121.75838
+94,7/28/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/29/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/30/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,7/31/20,Brussels sprout,California,Diamondback moth,45,7/31/20,TRUE,36.76597,-121.75838
+94,8/1/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,8/2/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.76597,-121.75838
+94,8/3/20,Brussels sprout,California,Diamondback moth,21,8/3/20,FALSE,36.76597,-121.75838
+100,5/29/20,Brussels sprout,California,Diamondback moth,359,5/29/20,FALSE,36.734482,-121.634016
+100,5/30/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,5/31/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/1/20,Brussels sprout,California,Diamondback moth,64,6/1/20,TRUE,36.734482,-121.634016
+100,6/2/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/3/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/4/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/5/20,Brussels sprout,California,Diamondback moth,60,6/5/20,FALSE,36.734482,-121.634016
+100,6/6/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/7/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/8/20,Brussels sprout,California,Diamondback moth,17,6/8/20,FALSE,36.734482,-121.634016
+100,6/9/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/10/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/11/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/12/20,Brussels sprout,California,Diamondback moth,53,6/12/20,TRUE,36.734482,-121.634016
+100,6/13/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/14/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/15/20,Brussels sprout,California,Diamondback moth,90,6/15/20,FALSE,36.734482,-121.634016
+100,6/16/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/17/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/18/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/19/20,Brussels sprout,California,Diamondback moth,78,6/19/20,FALSE,36.734482,-121.634016
+100,6/20/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/21/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/22/20,Brussels sprout,California,Diamondback moth,29,6/22/20,FALSE,36.734482,-121.634016
+100,6/23/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/24/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/25/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/26/20,Brussels sprout,California,Diamondback moth,67,6/26/20,FALSE,36.734482,-121.634016
+100,6/27/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/28/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,6/29/20,Brussels sprout,California,Diamondback moth,48,6/29/20,FALSE,36.734482,-121.634016
+100,6/30/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/1/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/2/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/3/20,Brussels sprout,California,Diamondback moth,63,7/3/20,FALSE,36.734482,-121.634016
+100,7/4/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/5/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/6/20,Brussels sprout,California,Diamondback moth,71,7/6/20,FALSE,36.734482,-121.634016
+100,7/7/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/8/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/9/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/10/20,Brussels sprout,California,Diamondback moth,51,7/10/20,TRUE,36.734482,-121.634016
+100,7/11/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/12/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/13/20,Brussels sprout,California,Diamondback moth,137,7/13/20,FALSE,36.734482,-121.634016
+100,7/14/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/15/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/16/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/17/20,Brussels sprout,California,Diamondback moth,42,7/17/20,FALSE,36.734482,-121.634016
+100,7/18/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/19/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/20/20,Brussels sprout,California,Diamondback moth,24,7/20/20,FALSE,36.734482,-121.634016
+100,7/21/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/22/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/23/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/24/20,Brussels sprout,California,Diamondback moth,118,7/24/20,FALSE,36.734482,-121.634016
+100,7/25/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/26/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/27/20,Brussels sprout,California,Diamondback moth,40,7/27/20,FALSE,36.734482,-121.634016
+100,7/28/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/29/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/30/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,7/31/20,Brussels sprout,California,Diamondback moth,36,7/31/20,TRUE,36.734482,-121.634016
+100,8/1/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,8/2/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,8/3/20,Brussels sprout,California,Diamondback moth,47,8/3/20,FALSE,36.734482,-121.634016
+100,8/4/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,8/5/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,8/6/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.734482,-121.634016
+100,8/7/20,Brussels sprout,California,Diamondback moth,139,8/7/20,FALSE,36.734482,-121.634016
+108,5/29/20,Brussels sprout,California,Diamondback moth,18,5/29/20,TRUE,36.527295,-121.452742
+108,5/30/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,5/31/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/1/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/2/20,Brussels sprout,California,Diamondback moth,13,6/2/20,FALSE,36.527295,-121.452742
+108,6/3/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/4/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/5/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/6/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/7/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/8/20,Brussels sprout,California,Diamondback moth,12,6/8/20,TRUE,36.527295,-121.452742
+108,6/9/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/10/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/11/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/12/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/13/20,Brussels sprout,California,Diamondback moth,6,6/13/20,FALSE,36.527295,-121.452742
+108,6/14/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/15/20,Brussels sprout,California,Diamondback moth,24,6/15/20,FALSE,36.527295,-121.452742
+108,6/16/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/17/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/18/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/19/20,Brussels sprout,California,Diamondback moth,17,6/19/20,FALSE,36.527295,-121.452742
+108,6/20/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/21/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/22/20,Brussels sprout,California,Diamondback moth,24,6/22/20,FALSE,36.527295,-121.452742
+108,6/23/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/24/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/25/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/26/20,Brussels sprout,California,Diamondback moth,24,6/27/20,TRUE,36.527295,-121.452742
+108,6/27/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/28/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,6/29/20,Brussels sprout,California,Diamondback moth,8,6/29/20,FALSE,36.527295,-121.452742
+108,6/30/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/1/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/2/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/3/20,Brussels sprout,California,Diamondback moth,13,7/3/20,TRUE,36.527295,-121.452742
+108,7/4/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/5/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/6/20,Brussels sprout,California,Diamondback moth,8,7/6/20,FALSE,36.527295,-121.452742
+108,7/7/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/8/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/9/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/10/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/11/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/12/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/13/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/14/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/15/20,Brussels sprout,California,Diamondback moth,23,7/15/20,FALSE,36.527295,-121.452742
+108,7/16/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/17/20,Brussels sprout,California,Diamondback moth,20,7/17/20,FALSE,36.527295,-121.452742
+108,7/18/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/19/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/20/20,Brussels sprout,California,Diamondback moth,27,7/20/20,TRUE,36.527295,-121.452742
+108,7/21/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/22/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/23/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/24/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/25/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/26/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/27/20,Brussels sprout,California,Diamondback moth,13,7/27/20,FALSE,36.527295,-121.452742
+108,7/28/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/29/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/30/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.527295,-121.452742
+108,7/31/20,Brussels sprout,California,Diamondback moth,31,7/31/20,FALSE,36.527295,-121.452742
+110,5/29/20,Broccoli,,Diamondback moth,68,5/29/20,TRUE,38.692715,-121.161265
+110,5/30/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,5/31/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/1/20,Broccoli,,Diamondback moth,23,6/1/20,FALSE,38.692715,-121.161265
+110,6/2/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/3/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/4/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/5/20,Broccoli,,Diamondback moth,108,6/5/20,FALSE,38.692715,-121.161265
+110,6/6/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/7/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/8/20,Broccoli,,Diamondback moth,31,6/8/20,TRUE,38.692715,-121.161265
+110,6/9/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/10/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/11/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/12/20,Broccoli,,Diamondback moth,197,6/12/20,TRUE,38.692715,-121.161265
+110,6/13/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/14/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/15/20,Broccoli,,Diamondback moth,30,6/15/20,FALSE,38.692715,-121.161265
+110,6/16/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/17/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/18/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/19/20,Broccoli,,Diamondback moth,57,6/19/20,TRUE,38.692715,-121.161265
+110,6/20/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/21/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/22/20,Broccoli,,Diamondback moth,90,6/22/20,TRUE,38.692715,-121.161265
+110,6/23/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/24/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/25/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/26/20,Broccoli,,Diamondback moth,230,6/26/20,TRUE,38.692715,-121.161265
+110,6/27/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/28/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,6/29/20,Broccoli,,Diamondback moth,179,6/29/20,TRUE,38.692715,-121.161265
+110,6/30/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/1/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/2/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/3/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/4/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/5/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/6/20,Broccoli,,Diamondback moth,352,7/6/20,TRUE,38.692715,-121.161265
+110,7/7/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/8/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/9/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/10/20,Broccoli,,Diamondback moth,62,7/10/20,FALSE,38.692715,-121.161265
+110,7/11/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/12/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/13/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/14/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/15/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/16/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/17/20,Broccoli,,Diamondback moth,110,7/17/20,TRUE,38.692715,-121.161265
+110,7/18/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/19/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/20/20,Broccoli,,Diamondback moth,60,7/20/20,FALSE,38.692715,-121.161265
+110,7/21/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/22/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/23/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/24/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/25/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/26/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/27/20,Broccoli,,Diamondback moth,30,7/27/20,FALSE,38.692715,-121.161265
+110,7/28/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/29/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/30/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,7/31/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,8/1/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,8/2/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,8/3/20,Broccoli,,Diamondback moth,145,8/3/20,TRUE,38.692715,-121.161265
+110,8/4/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,8/5/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,8/6/20,Broccoli,,Diamondback moth,,,FALSE,38.692715,-121.161265
+110,8/7/20,Broccoli,,Diamondback moth,81,8/7/20,FALSE,38.692715,-121.161265
+112,5/15/20,Brussels sprout,California,Diamondback moth,9,5/15/20,FALSE,36.57814,-121.506536
+112,5/16/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,5/17/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,5/18/20,Brussels sprout,California,Diamondback moth,25,5/18/20,FALSE,36.57814,-121.506536
+112,5/19/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,5/20/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,5/21/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,5/22/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,5/23/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,5/24/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,5/25/20,Brussels sprout,California,Diamondback moth,6,5/25/20,FALSE,36.57814,-121.506536
+112,5/26/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,5/27/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,5/28/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,5/29/20,Brussels sprout,California,Diamondback moth,8,5/29/20,TRUE,36.57814,-121.506536
+112,5/30/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,5/31/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/1/20,Brussels sprout,California,Diamondback moth,18,6/1/20,FALSE,36.57814,-121.506536
+112,6/2/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/3/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/4/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/5/20,Brussels sprout,California,Diamondback moth,14,6/5/20,FALSE,36.57814,-121.506536
+112,6/6/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/7/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/8/20,Brussels sprout,California,Diamondback moth,10,6/8/20,FALSE,36.57814,-121.506536
+112,6/9/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/10/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/11/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/12/20,Brussels sprout,California,Diamondback moth,1,6/12/20,TRUE,36.57814,-121.506536
+112,6/13/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/14/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/15/20,Brussels sprout,California,Diamondback moth,14,6/15/20,FALSE,36.57814,-121.506536
+112,6/16/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/17/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/18/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/19/20,Brussels sprout,California,Diamondback moth,26,6/19/20,FALSE,36.57814,-121.506536
+112,6/20/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/21/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/22/20,Brussels sprout,California,Diamondback moth,20,6/22/20,FALSE,36.57814,-121.506536
+112,6/23/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/24/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/25/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/26/20,Brussels sprout,California,Diamondback moth,22,6/26/20,FALSE,36.57814,-121.506536
+112,6/27/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/28/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,6/29/20,Brussels sprout,California,Diamondback moth,19,6/29/20,FALSE,36.57814,-121.506536
+112,6/30/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/1/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/2/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/3/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/4/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/5/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/6/20,Brussels sprout,California,Diamondback moth,57,7/6/20,FALSE,36.57814,-121.506536
+112,7/7/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/8/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/9/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/10/20,Brussels sprout,California,Diamondback moth,76,7/10/20,TRUE,36.57814,-121.506536
+112,7/11/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/12/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/13/20,Brussels sprout,California,Diamondback moth,15,7/13/20,FALSE,36.57814,-121.506536
+112,7/14/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/15/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/16/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/17/20,Brussels sprout,California,Diamondback moth,28,7/17/20,FALSE,36.57814,-121.506536
+112,7/18/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/19/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/20/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/21/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/22/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/23/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/24/20,Brussels sprout,California,Diamondback moth,13,7/24/20,FALSE,36.57814,-121.506536
+112,7/25/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/26/20,Brussels sprout,California,Diamondback moth,,,FALSE,36.57814,-121.506536
+112,7/27/20,Brussels sprout,California,Diamondback moth,35,7/27/20,FALSE,36.57814,-121.506536
+114,7/30/20,Broccoli,California,Diamondback moth,16,7/30/20,FALSE,38.842216,-106.131126
+114,7/31/20,Broccoli,California,Diamondback moth,,,FALSE,38.842216,-106.131126
+114,8/1/20,Broccoli,California,Diamondback moth,,,FALSE,38.842216,-106.131126
+114,8/2/20,Broccoli,California,Diamondback moth,,,FALSE,38.842216,-106.131126
+114,8/3/20,Broccoli,California,Diamondback moth,21,8/3/20,FALSE,38.842216,-106.131126
